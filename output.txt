@@ -1,0 +1,35 @@
+Line Number: 0
+वच्छ 	 Unk
+और 	 CC_CCD
+साँसों 	 N_NN
+को 	 PSP
+ताजा 	 JJ
+रख 	 V_VM
+सकते 	 V_VAUX
+हैं। 	 V_VAUX
+देते 	 V_VAUX
+हैं 	 V_VAUX
+। 	 RD_PUNC
+Line Number: 1
+दाँतों 	 N_NN
+को 	 PSP
+ठीक 	 N_NN
+से 	 PSP
+साफ 	 N_NN
+करें 	 V_VM
+। 	 RD_PUNC
+Line Number: 2
+दाँतों 	 N_NN
+को 	 PSP
+ठीक 	 N_NN
+से 	 PSP
+साफ 	 N_NN
+करने 	 V_VM
+में 	 PSP
+दो 	 QT_QTC
+से 	 PSP
+तीन 	 QT_QTC
+मिनट 	 N_NN
+का 	 PSP
+समय 	 N_NN
+है। 	 V_VAUX
